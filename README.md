@@ -4,7 +4,7 @@ An all-in-one Docker Compose setup that provides a complete stack for AI workflo
 
 > 🔗 **Detailed Setup Guide**: [Complete Installation Guide on Notion](https://liberating-galley-48d.notion.site/Installing-N8N-Flowise-w-Qdrant-monitoring-with-Prometheus-Grafana-on-Hetzner-Cloud-1b3cf2b3a53980d39ae8f38a121a33fd?pvs=4)
 > 
-> 📺 **Video Tutorial**: [How to Set Up on Hetzner Cloud (YouTube)](link-to-be-determined)
+> 📺 **Video Tutorial**: [How to Set Up on Hetzner Cloud (YouTube)](https://www.youtube.com/watch?v=MaWEt5zYx2c)
 > 
 > 🧪 **Need Help?**: Visit [Alchemyst Digital](https://alchemyst.digital) to get expert assistance building AI and automation solutions for your business.
 
