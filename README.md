@@ -78,7 +78,7 @@ After deployment, you can access your services at:
 - Flowise: https://flowise.yourdomain.com
 - Grafana: https://grafana.yourdomain.com
 - Prometheus: https://prometheus.yourdomain.com
-- Qdrant: https://qdrant.yourdomain.com
+- Qdrant: https://qdrant.yourdomain.com/dashboard
 
 ## Architecture
 
