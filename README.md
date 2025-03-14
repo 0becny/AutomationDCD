@@ -1,4 +1,4 @@
-# AI Automation & Monitoring Stack
+# Lightweight AI Automation Stack for Cloud Hosting
 
 An all-in-one Docker Compose setup that provides a complete stack for AI workflow automation, integration, and monitoring.
 
