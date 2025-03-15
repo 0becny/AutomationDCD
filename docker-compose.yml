@@ -19,6 +19,7 @@ services:
       - N8N_TUNNEL_SUBDOMAIN=${N8N_HOST}
       # Add this to enable runners
       - N8N_RUNNERS_ENABLED=true
+      - N8N_COMMUNITY_PACKAGES_ALLOW_TOOL_UASGE=true
     volumes:
       - n8n_data:/home/node/.n8n
     networks:
